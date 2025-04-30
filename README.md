@@ -1,5 +1,7 @@
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
+## Name: Roshini S
+## Reg.no:212223230174
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
@@ -31,9 +33,9 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
-Developed by: YAMUNA M
+Developed by: Roshini S
 
-RegisterNumber: 212223230248 
+RegisterNumber: 212223230174
 
 ```python
 import pandas as pd
